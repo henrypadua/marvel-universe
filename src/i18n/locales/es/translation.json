@@ -1,0 +1,24 @@
+{
+  "listPage": {
+    "title": "EXPLORA EL UNIVERSO",
+    "subtitle": "Sumérgete en el deslumbrante reino de todos los personajes clásicos que amas, ¡y aquellos que pronto descubrirás!",
+    "found": "Encontrados {{total}} héroes"
+  },
+  "components": {
+    "searchBar": {
+      "placeholder": "Busca héroes, villanos, antihéroes y más..."
+    },
+    "toggle": {
+      "label": "Solo favoritos"
+    },
+    "select": {
+      "label1": "Ordenar por nombre - A a Z",
+      "label2": "Ordenar por nombre - Z a A"
+    }
+  },
+  "languages": {
+    "english": "Inglés",
+    "spanish": "Español",
+    "portuguese": "Portugués"
+  }
+}

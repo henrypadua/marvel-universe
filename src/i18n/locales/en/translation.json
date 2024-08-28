@@ -1,0 +1,30 @@
+{
+  "listPage": {
+    "title": "EXPLORE THE UNIVERSE",
+    "subtitle": "Dive into the dazzling realm of all the classic characters you love - and those you will soon discover!",
+    "found": "Found {{total}} heroes"
+  },
+  "detailsPage": {
+    "notFound": "Hero not found",
+    "latestComics": "Latest comics",
+    "comics": "Comics",
+    "movies": "Movies"
+  },
+  "components": {
+    "searchBar": {
+      "placeholder": "Search for heroes, villains, anti-heroes, and more..."
+    },
+    "toggle": {
+      "label": "Only favorites"
+    },
+    "select": {
+      "label1": "Sort by name - A to Z",
+      "label2": "Sort by name - Z to A"
+    }
+  },
+  "languages": {
+    "english": "English",
+    "spanish": "Spanish",
+    "portuguese": "Portuguese"
+  }
+}
